@@ -1,4 +1,4 @@
-# EC2
+# AWS EC2
 Deploying Project using EC2
 
 # 1.Setting Inbound rules
