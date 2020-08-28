@@ -1,4 +1,4 @@
-## Deploying Project using EC2
+# Deploying Project using EC2,MAVEN
 
 ### 1.Setting Inbound rules
 ![7](https://user-images.githubusercontent.com/33336934/89096767-f221f400-d413-11ea-868e-785a606f90c1.PNG)
