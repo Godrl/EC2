@@ -14,6 +14,6 @@
 
 ## Program Stacks
 - Ubuntu18.04
-- Maven2.4
+- Maven2
 - Tomcat8
-- MYSQL5.7
+- MYSQL5
