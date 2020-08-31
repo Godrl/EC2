@@ -9,8 +9,9 @@
 ### 3. Deploy Project to Maven
 ![54](https://user-images.githubusercontent.com/33336934/89097004-fbac5b80-d415-11ea-9dc9-a1cb829f4673.png)
 
-### 4. Finish
-![59](https://user-images.githubusercontent.com/33336934/89097033-2f878100-d416-11ea-9b37-4b4ddad94d6f.PNG)
+### 4. EC2 IP:8080
+<img width="1420" alt="EC2 IP 8080" src="https://user-images.githubusercontent.com/33336934/91720075-6d242900-ebd1-11ea-9cff-3c4059703f64.png">
+
 
 ## Program Stacks
 - Ubuntu18.04
